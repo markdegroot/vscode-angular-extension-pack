@@ -1,0 +1,64 @@
+{
+  "name": "vscode-angular-extension-pack",
+  "displayName": "vscode-angular-extension-pack",
+  "description": "Visual Studio Code Extension pack for Angular Developers",
+  "version": "0.1.0",
+  "publisher": "markdegroot",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markdegroot/vscode-angular-extension-pack.git"
+  },
+  "homepage": "https://markdegroot.info",
+  "scripts": {
+    "package": "npx vsce package",
+    "publish": "npx vsce publish"
+  },
+  "keywords": [
+    "git",
+    "html",
+    "javascript",
+    "css",
+    "angular"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "agular.ng-template",
+    "alexiv.vscode-angular2-files",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "infinity1207.angular2-switcher",
+    "2gua.rainbow-brackets",
+    "alefragnani.project-manager",
+    "bradlc.vscode-tailwindcss",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "dennisvhest.npm-browser",
+    "eamodio.gitlens",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "Gruntfuggly.todo-tree",
+    "IBM.output-colorizer",
+    "liamhammett.inline-parameters",
+    "michelemelluso.gitignore",
+    "mitchdenny.ecdc",
+    "ms-azuretools.vscode-azureresourcegroups",
+    "ms-azuretools.vscode-azurestorage",
+    "ms-vscode.azure-account",
+    "nmsmith89.incrementor",
+    "patbenatar.advanced-new-file",
+    "PKief.material-icon-theme",
+    "pranaygp.vscode-css-peek",
+    "Tyriar.sort-lines",
+    "wenfangdu.snippet-generator",
+    "wix.vscode-import-cost",
+    "yzhang.markdown-all-in-one",
+    "buenon.scratchpads",
+    "humao.rest-client"
+  ]
+}
