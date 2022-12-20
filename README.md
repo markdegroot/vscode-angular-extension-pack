@@ -34,3 +34,5 @@
 - [markdown-all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [scratchpads](https://marketplace.visualstudio.com/items?itemName=buenon.scratchpads)
 - [rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+- [markdegroot.vscode-angular-snippets](https://marketplace.visualstudio.com/items?itemName=markdegroot.vscode-angular-snippets)
+- [johnpapa.vscode-peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
