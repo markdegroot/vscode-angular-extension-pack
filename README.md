@@ -2,11 +2,18 @@
 
 ## Extensions
 
+### Angular
+
 - [angular language service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 - [angular files](https://marketplace.visualstudio.com/items?itemName=alexiv.vscode-angular2-files)
+- [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
+- [markdegroot.vscode-angular-snippets](https://marketplace.visualstudio.com/items?itemName=markdegroot.vscode-angular-snippets)
+- [nx console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console)
+
+### Other
+
 - [vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
 - [rainbow-brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
 - [project-manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 - [vscode-tailwindcss](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
@@ -34,5 +41,4 @@
 - [markdown-all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [scratchpads](https://marketplace.visualstudio.com/items?itemName=buenon.scratchpads)
 - [rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
-- [markdegroot.vscode-angular-snippets](https://marketplace.visualstudio.com/items?itemName=markdegroot.vscode-angular-snippets)
 - [johnpapa.vscode-peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)

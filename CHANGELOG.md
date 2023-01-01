@@ -1,5 +1,13 @@
 # Change Log
 
+<a name="0.3.0"></a>
+
+## [0.3.0] - 2023-01-01
+
+### Added
+
+- package nrwl.angular-console
+
 <a name="0.2.0"></a>
 
 ## [0.2.0] - 2022-12-20
