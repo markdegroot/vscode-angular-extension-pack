@@ -14,7 +14,6 @@
 
 - [vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [rainbow-brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
 - [project-manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 - [vscode-tailwindcss](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 - [npm-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
@@ -42,3 +41,4 @@
 - [scratchpads](https://marketplace.visualstudio.com/items?itemName=buenon.scratchpads)
 - [rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 - [johnpapa.vscode-peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+- [stylelint-plus](https://marketplace.visualstudio.com/items?itemName=hex-ci.stylelint-plus)

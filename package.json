@@ -2,7 +2,7 @@
   "name": "vscode-angular-extension-pack",
   "displayName": "vscode-angular-extension-pack",
   "description": "Visual Studio Code Extension pack for Angular Developers",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "publisher": "markdegroot",
   "engines": {
     "vscode": "^1.72.0"
@@ -33,7 +33,6 @@
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "infinity1207.angular2-switcher",
-    "2gua.rainbow-brackets",
     "alefragnani.project-manager",
     "bradlc.vscode-tailwindcss",
     "christian-kohler.npm-intellisense",
@@ -62,6 +61,7 @@
     "humao.rest-client",
     "markdegroot.vscode-angular-snippets",
     "johnpapa.vscode-peacock",
-    "nrwl.angular-console"
+    "nrwl.angular-console",
+    "hex-ci.stylelint-plus"
   ]
 }

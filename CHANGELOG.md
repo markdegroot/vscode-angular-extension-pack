@@ -1,5 +1,17 @@
 # Change Log
 
+<a name="0.4.0"></a>
+
+## [0.4.0] - 2023-01-23
+
+### Added
+
+- package stylelint-plus
+
+### Removed
+
+- package rainbow-brackets, this is now supported as a VS Code setting.
+
 <a name="0.3.0"></a>
 
 ## [0.3.0] - 2023-01-01
