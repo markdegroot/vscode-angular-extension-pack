@@ -42,3 +42,4 @@
 - [rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 - [johnpapa.vscode-peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 - [stylelint-plus](https://marketplace.visualstudio.com/items?itemName=hex-ci.stylelint-plus)
+- [lit-html](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html)
